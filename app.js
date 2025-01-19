@@ -53,7 +53,7 @@ function sortearAmigoSemRepstir() {
   let amigoEscolhido = parseInt(Math.random() * amigos.length); // Sorteia o amigo
   let resultado = document.getElementById("resultado");
   resultado.innerHTML = `O amigos secreto é: ${amigos[amigoEscolhido]}`; // Mostra o amigo sorteado
-  
+
   amigos.splice(amigoEscolhido, 1); // Remove o sorteado da lista
   adicionarAmigoNaLista(); // Atualiza a exibição da lista
 }
