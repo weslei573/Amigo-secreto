@@ -17,4 +17,4 @@ O objetivo principal deste desafio é desenvolver habilidades em lógica de prog
 - ``Funções e Listas``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/weslei573/Amigo-secreto/blob/main/app.js).
